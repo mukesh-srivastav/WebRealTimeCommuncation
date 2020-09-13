@@ -1,7 +1,7 @@
 {
-  "name": "webrtc-codelab",
+  "name": "webrtc-video-conferencing-app",
   "version": "0.0.1",
-  "description": "WebRTC codelab",
+  "description": "WebRTC Video Conferencing APP",
   "dependencies": {
     "node-static": "^0.7.10",
     "socket.io": "^2.3.0"
