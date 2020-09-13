@@ -10,4 +10,6 @@
   - Run `node index.js` (server).
   - Open localhost:8080 in browser, it will ask for meeting id aka room number.
   - Open localhost:8080 in next tab, it will ask for meeting id again. Put the same meeting id as previous once again. 
-  - And both the screens are now joined in a bidirectional peer to peer real time communication in meeting room. 
+  - And both the screens are now joined in a bidirectional peer to peer real time communication in meeting room. You can see both of the screen's side by side on the page.
+
+# Heroku: https://safe-beach-57647.herokuapp.com/ 
