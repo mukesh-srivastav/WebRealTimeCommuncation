@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+}
+
+video {
+  max-width: 100%;
+  width: 320px;
+}
+
+/* To Blur the video
+video {
+  filter: blur(4px) invert(1) opacity(0.5);
+} */
+
+/* SVG filter.
+video {
+  filter: hue-rotate(180deg) saturate(200%);
+} */
